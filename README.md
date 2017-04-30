@@ -1,1 +1,3 @@
-# react-redux
+# React-YoutubeSearch
+
+React App to search Youtube videos
